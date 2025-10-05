@@ -70,7 +70,7 @@
     <div class="header">
       <h1>Oscar Julian Diaz Devia</h1>
       <p>Junior Web Developer | Python Enthusiast</p>
-      <p>Email: oscardiaz@example.com | Phone: +57 300 000 0000 | Colombia</p>
+      <p>Email: oscar2005diaz@gmail.com.com | Phone: +57 300 1508657 | Colombia</p>
     </div>
 
     <div class="section">
@@ -83,7 +83,7 @@
     <div class="section">
       <h2>Education</h2>
       <p><strong>Artificial Intelligence and Data Science Engineering</strong></p>
-      <p>Universidad XYZ – <em>2024 - Present</em></p>
+      <p>Universidad santo Tomas – <em>2025 - Present</em></p>
     </div>
 
     <div class="section">
